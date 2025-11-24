@@ -1,10 +1,8 @@
-## Hello 👋
+Hello 👋
 
-Welcome! I'm `Xanet2004` — a developer passionate about building practical solutions, learning new technologies, and contributing to open source.
+I'm Xanet, a computer science student who enjoys building small but useful projects and learning better ways to write and structure code.
 
-- 🔭 **Currently**: working on personal web and automation projects.
-- 🌱 **Learning**: development best practices, DevOps, and new ecosystem tools.
-- ❗ **Note**: I'm not looking for collaborators at the moment.
-- 📫 **Contact**: open an issue or submit a PR on any of my repositories.
-
-Thanks for visiting my profile — let's build something interesting! 🚀
+- 🔧 Interests: web development, backend systems, automation, and practical tools that solve real problems.
+- 📚 Currently learning: improving code quality, clean architecture, and exploring DevOps fundamentals.
+- 🧪 What I like to build: simple apps, utilities, and experiments to understand technologies more deeply.
+- 📫 How to reach me: feel free to open an issue in any repository.
